@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="880f63ff-051e-472d-8c1a-78697efd4b3c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/teamtreehouse/giflib/AppConfig.java" afterPath="$PROJECT_DIR$/src/main/java/com/teamtreehouse/giflib/AppConfig.java" />
-    </list>
+    <list default="true" id="880f63ff-051e-472d-8c1a-78697efd4b3c" name="Default" comment="" />
     <ignored path="giflib.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
