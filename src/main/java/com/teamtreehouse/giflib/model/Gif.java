@@ -9,7 +9,7 @@ public class Gif {
     private boolean favorite;
     private String username;
 
-    public Gif(String name, LocalDate dateUploaded, boolean favorite, String username) {
+    public Gif(String name, LocalDate dateUploaded, String username, boolean favorite) {
         this.name = name;
         this.dateUploaded = dateUploaded;
         this.favorite = favorite;
